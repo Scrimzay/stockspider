@@ -9,3 +9,5 @@ step 1. run the program or project
 step 2. click any ticker you want
 
 make sure to star the repo, follow my github and follow me on twitch and twitter(x)
+
+![SSforGH](https://github.com/user-attachments/assets/b9fe3ae5-e540-4c83-87d0-12046ca2da13)
